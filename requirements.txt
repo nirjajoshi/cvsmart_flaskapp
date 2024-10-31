@@ -1,0 +1,7 @@
+Flask
+sentence-transformers
+PyPDF2
+python-docx
+gunicorn
+torch
+transformers
